@@ -1,0 +1,17 @@
+{
+  "name": "CineMaster AI",
+  "short_name": "CineMaster",
+  "description": "AI cinema LUT generation and mastering. Works offline in the browser (standalone mode).",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#07080A",
+  "theme_color": "#0C0E12",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

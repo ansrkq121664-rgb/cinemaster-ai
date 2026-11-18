@@ -1,0 +1,29 @@
+{
+  "name": "CineMaster AI",
+  "version": "3.5.1",
+  "label": "v3.5.1",
+  "date": "2026-11-18",
+  "title": "강한 그레이드용 음수 접기 옵션과 새 버전 알림",
+  "notes": [
+    "Look-Only와 Scene-Grade LUT에 음수 접기 옵션을 더했습니다. 강한 그레이드에서 하이라이트 색이 틀어지거나 밝기가 뒤집히는 것을 막습니다.",
+    "Master Bundle의 Master DI LUT에도 같은 옵션을 켤 수 있습니다. 두 옵션 모두 기본은 꺼져 있어 지금까지와 같은 결과가 나옵니다.",
+    "앱을 열 때 홈페이지에서 새 버전을 확인해 알림과 내려받기 링크를 보여 줍니다. 자동으로 설치하지 않고, 환경설정에서 끌 수 있으며, 인터넷이 없으면 조용히 넘어갑니다.",
+    "홈페이지를 새로 만들었습니다. 실제 엔진으로 렌더한 Log와 룩 비교, 실제 화면, 설치 파일 크기와 SHA-256, 페이지 안에서 바로 여는 웹 버전을 담았습니다."
+  ],
+  "page": "https://ansrkq121664-rgb.github.io/cinemaster-ai/#download",
+  "changelog": "https://ansrkq121664-rgb.github.io/cinemaster-ai/#updates",
+  "installer": {
+    "name": "CineMaster_AI_Setup_v3.5.1.exe",
+    "url": "https://github.com/ansrkq121664-rgb/cinemaster-ai/releases/download/v3.5.1/CineMaster_AI_Setup_v3.5.1.exe",
+    "size": "89.6 MB",
+    "size_bytes": 93915988,
+    "sha256": "66dff8559a06faabd493cb615e705ff97920f5dc3b5ec51ad60b8f8897b9e06f"
+  },
+  "portable": {
+    "name": "CineMaster_AI_Portable_v3.5.1_Windows.zip",
+    "url": "https://github.com/ansrkq121664-rgb/cinemaster-ai/releases/download/v3.5.1/CineMaster_AI_Portable_v3.5.1_Windows.zip",
+    "size": "122.5 MB",
+    "size_bytes": 128448283,
+    "sha256": "de6dcd272a26c9b8f2a04b015aa72f934b0017a14d4bae1cb26ff7d816f63c2d"
+  }
+}
