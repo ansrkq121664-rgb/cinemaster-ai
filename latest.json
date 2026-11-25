@@ -1,0 +1,27 @@
+{
+  "name": "CineMaster AI",
+  "version": "3.15.2",
+  "label": "v3.15.2",
+  "date": "2026-11-26",
+  "title": "타임라인 클립 바 크기 조절",
+  "notes": [
+    "타임라인 클립 바: 위 경계선을 끌어 높이를 바꾸면 클립 썸네일이 16:9 그대로 커지고 작아집니다. 뷰어가 남는 높이를 채웁니다.",
+    "경계선 더블클릭 = 기본 크기, 방향키로 조금씩. 크기는 저장되어 다시 열어도 그대로입니다."
+  ],
+  "page": "https://cinemaster-ai.github.io/#download",
+  "changelog": "https://cinemaster-ai.github.io/#updates",
+  "installer": {
+    "name": "CineMaster_AI_Setup_v3.15.2.exe",
+    "url": "https://github.com/CINEMASTER-AI/cinemaster-ai.github.io/releases/download/v3.15.2/CineMaster_AI_Setup_v3.15.2.exe",
+    "size": "216.9 MB",
+    "size_bytes": 227411453,
+    "sha256": "ccb8c3702efb6e6dd65c5210685765692f8edd0fffe163c0260dce024f358fdc"
+  },
+  "portable": {
+    "name": "CineMaster_AI_Portable_v3.15.2_Windows.zip",
+    "url": "https://github.com/CINEMASTER-AI/cinemaster-ai.github.io/releases/download/v3.15.2/CineMaster_AI_Portable_v3.15.2_Windows.zip",
+    "size": "293.4 MB",
+    "size_bytes": 307648847,
+    "sha256": "84db104b14869c57eb7de83f4c9eba2190bea43611245c6d493da895ecb5428f"
+  }
+}
